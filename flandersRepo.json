@@ -1,0 +1,7 @@
+{
+  "name" : "Project Flanders: External Test Repository.",
+  "author" : "github@boopdev",
+  "description" : "A testing repository used for testing the repository feature stuff",
+  "depends" : [],
+  "debugCogs" : ["debugCogNameHere"]
+}
